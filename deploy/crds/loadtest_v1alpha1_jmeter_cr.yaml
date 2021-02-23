@@ -16,3 +16,4 @@ spec:
   grafana_reporter_install: "false"
   grafana_reporter_image: kubernautslabs/jmeter-reporter:latest
   influxdb_install: "true"
+  tolerations: []
